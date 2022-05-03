@@ -2,7 +2,7 @@
 
 ### Período do evento: 02 a 05 de Maio/2022 (Online e ao vivo às 20h)
 
-[>> Página de Inscrição do evento](https://inscricao.imersaoaws.com.br)
+[>> Página de Inscrição do evento](https://bit.ly/aws-com-docker)
 
 
 #### Para rodar as migrations no container ####
